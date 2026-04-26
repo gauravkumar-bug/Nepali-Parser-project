@@ -1,0 +1,5 @@
+# Standard library (already included in Python)
+# re
+# json
+
+python>=3.7
